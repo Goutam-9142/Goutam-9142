@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Goutam Dey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/Goutam-9142/Goutam-9142"><img src="WhatsApp Image 2026-10-04 at 1.15.09 AM.jpeg" alt="goutam-9142" width ="160" /></a> </p>
+<p align="left"> <a href="https://github.com/Goutam-9142/Goutam-9142"><img src="WhatsApp Image 2026-10-04 at 1.15.09 AM.jpeg" alt="goutam-9142" width ="180" /></a> </p>
 
 - 🔭 I’m currently working on [Itihas-Yatra](https://github.com/Goutam-9142/Itihas-Yatra)
 - 🌱 I’m currently learning **React,Node.js,MongoDB,AI ,**
