@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Goutam Dey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Goutam-9142" alt="goutam-9142" /></a> </p>
+<p align="left"> <a href="https://github.com/Goutam-9142/Goutam-9142"><img src="https://github.com/Goutam-9142/Goutam-9142/?username=Goutam-914" alt="goutam-9142" /></a> </p>
 
 - 🔭 I’m currently working on [Itihas-Yatra](https://github.com/Goutam-9142/Itihas-Yatra)
-
 - 🌱 I’m currently learning **React,Node.js,MongoDB,AI ,**
 
 - 👯 I’m looking to collaborate on [live-location-tracker-master](https://github.com/Goutam-9142/live-location-tracker-master)
